@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://justacademy2023.github.io/</loc>
+  </url>
+
+  <!-- Laravel -->
+  <url>
+    <loc>https://justacademy2023.github.io/laravel-training-justacademy/</loc>
+  </url>
+
+  <url>
+    <loc>https://justacademy2023.github.io/laravel-features-justacademy/</loc>
+  </url>
+
+  <url>
+    <loc>https://justacademy2023.github.io/laravel-vs-codeigniter-justacademy/</loc>
+  </url>
+
+  <url>
+    <loc>https://justacademy2023.github.io/laravel-developer-career-india/</loc>
+  </url>
+
+  <url>
+    <loc>https://justacademy2023.github.io/laravel-course-placement-guide-2026/</loc>
+  </url>
+
+  <!-- Flutter -->
+  <url>
+    <loc>https://justacademy2023.github.io/flutter-cross-platform-guide/</loc>
+  </url>
+
+  <url>
+    <loc>https://justacademy2023.github.io/flutter-vs-react-native-2026/</loc>
+  </url>
+
+  <url>
+    <loc>https://justacademy2023.github.io/flutter-features-guide-2026/</loc>
+  </url>
+
+  <url>
+    <loc>https://justacademy2023.github.io/flutter-developer-career-india/</loc>
+  </url>
+
+  <!-- Selenium -->
+  <url>
+    <loc>https://justacademy2023.github.io/selenium-automation-testing-guide-2026/</loc>
+  </url>
+
+  <url>
+    <loc>https://justacademy2023.github.io/selenium-vs-appium-guide-2026/</loc>
+  </url>
+
+  <url>
+    <loc>https://justacademy2023.github.io/selenium-webdriver-features-guide/</loc>
+  </url>
+
+  <url>
+    <loc>https://justacademy2023.github.io/selenium-automation-career-guide-india/</loc>
+  </url>
+
+</urlset>
